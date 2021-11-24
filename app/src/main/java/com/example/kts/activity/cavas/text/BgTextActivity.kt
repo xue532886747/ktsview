@@ -16,7 +16,9 @@ class BgTextActivity : BaseActivity<ActBgtextBinding>() {
             Toast.makeText(this, "ahdahd", Toast.LENGTH_SHORT).show()
         }
 
+
         mBind.btCommit.text = "hahahahahahah"
+
     }
 
     override fun getLayout(): Int = R.layout.act_bgtext
