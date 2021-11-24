@@ -22,6 +22,12 @@
         <activity android:name=".activity.touch.CeShiTouchActivity" />
         <activity android:name=".activity.cavas.CavansActivity" />
         <activity android:name=".activity.viewpager.MyViewPagerActivity" />
+        <activity android:name=".activity.cavas.ClockActivity" />
+        <activity android:name=".activity.cavas.TextViewActivity" />
+        <activity android:name=".activity.cavas.AllTextViewActivity" />
+        <activity android:name=".activity.cavas.ZidingyiTextActivity" />
+        <activity android:name=".activity.cavas.text.StaticLayoutActivity" />
+        <activity android:name=".activity.cavas.text.BgTextActivity" />
     </application>
 
 </manifest>

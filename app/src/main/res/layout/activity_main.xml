@@ -44,6 +44,20 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="viewpager" />
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/bt_textview"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="textview绘制" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:hyphenationFrequency="normal"
+                    android:text="张近段时间大浪街道张近段时间大浪街道，张近段时间大浪街道张近段时间大浪街道。 张近段时间大浪街道张近段时间大浪街道"
+                    android:textSize="18dp" />
+
             </androidx.appcompat.widget.LinearLayoutCompat>
         </androidx.core.widget.NestedScrollView>
 

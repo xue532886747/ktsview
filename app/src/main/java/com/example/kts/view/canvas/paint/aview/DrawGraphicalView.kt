@@ -3,6 +3,7 @@ package com.example.kts.view.canvas.paint.aview
 import android.content.Context
 import android.graphics.Canvas
 import android.graphics.Paint
+import android.graphics.RectF
 import android.os.Build
 import android.util.AttributeSet
 import android.view.View
@@ -28,7 +29,13 @@ class DrawGraphicalView(context: Context, attributeSet: AttributeSet) :
 
 
     override fun onDraw(canvas: Canvas) {
-        canvasLine(canvas)
+//        canvasLine(canvas)
+        canvasRectF(canvas)
+    }
+
+    private fun canvasRectF(canvas: Canvas) {
+        val rectF = RectF(mWidth / 2f, mWidth / 2f, 150f.px, 150f.px)
+        canvas.drawRect(rectF, paint)
     }
 
     //绘制直线

@@ -22,6 +22,12 @@
             <com.example.kts.view.canvas.paint.aview.DrawPathView
                 android:layout_width="match_parent"
                 android:layout_height="200dp" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/bt_block"
+                android:text="绘制时钟"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
         </androidx.appcompat.widget.LinearLayoutCompat>
     </androidx.core.widget.NestedScrollView>
 </layout>

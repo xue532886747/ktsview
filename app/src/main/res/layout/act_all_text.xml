@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/bt_commit1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="基线"/>
+
+        <Button
+            android:id="@+id/bt_commit2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="staticlayout"/>
+
+        <Button
+            android:id="@+id/bt_commit3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="折叠"/>
+
+        <Button
+            android:id="@+id/bt_commit4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自定义text"/>
+
+        <Button
+            android:id="@+id/bt_commit5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="自定义text带背景"/>
+    </LinearLayout>
+</layout>

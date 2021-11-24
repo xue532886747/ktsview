@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+    </data>
+
+    <com.example.kts.view.layout.MyFlowLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:myOrientation="horizontal">
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:text="我爱中国"
+            android:textSize="28dp" />
+
+
+        <com.example.kts.view.text.MyButtonView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            app:new_bg_color="@color/teal_200"
+            app:new_text_content="我爱中国"
+            app:new_text_size="28dp" />
+
+
+    </com.example.kts.view.layout.MyFlowLayout>
+</layout>

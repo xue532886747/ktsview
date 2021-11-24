@@ -8,4 +8,6 @@ package com.example.kts
 object Constant {
 
     val MyViewStr = "MyViewStr"
+
+
 }

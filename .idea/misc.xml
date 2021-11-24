@@ -3,12 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/LibProject2/kts/app/src/main/res/layout/act_all_text.xml" value="0.190234375" />
         <entry key="..\:/LibProject2/kts/app/src/main/res/layout/act_animation.xml" value="0.22083333333333333" />
+        <entry key="..\:/LibProject2/kts/app/src/main/res/layout/act_bgtext.xml" value="0.136" />
         <entry key="..\:/LibProject2/kts/app/src/main/res/layout/act_cavans.xml" value="0.2" />
         <entry key="..\:/LibProject2/kts/app/src/main/res/layout/act_ceshitouch.xml" value="0.25364583333333335" />
+        <entry key="..\:/LibProject2/kts/app/src/main/res/layout/act_clock.xml" value="0.176" />
+        <entry key="..\:/LibProject2/kts/app/src/main/res/layout/act_staticlayout.xml" value="0.190234375" />
+        <entry key="..\:/LibProject2/kts/app/src/main/res/layout/act_textview.xml" value="0.128" />
+        <entry key="..\:/LibProject2/kts/app/src/main/res/layout/act_zidingyi.xml" value="0.152" />
         <entry key="..\:/LibProject2/kts/app/src/main/res/layout/activity_animation.xml" value="0.2" />
-        <entry key="..\:/LibProject2/kts/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/LibProject2/kts/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/LibProject2/kts/app/src/main/res/layout/item_base.xml" value="0.2" />
+        <entry key="..\:/LibProject2/kts/app/src/main/res/layout/item_text.xml" value="0.176" />
         <entry key="..\:/LibProject2/kts/app/src/main/res/layout/my_viewpager.xml" value="0.19427083333333334" />
       </map>
     </option>
