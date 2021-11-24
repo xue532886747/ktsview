@@ -13,6 +13,7 @@
         app:myOrientation="horizontal">
 
         <Button
+            android:id="@+id/bt_commit"
             android:layout_width="200dp"
             android:layout_height="200dp"
             android:text="我爱中国"
